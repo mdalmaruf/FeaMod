@@ -6,7 +6,7 @@ FeaMod is a tool designed to enhance the modularity, adaptability, and code reus
 
 The user interface of FeaMod is intuitive and easy to use, facilitating the management and visualization of feature models. Here's a glimpse of what the FeaMod interface looks like:
 
-![FeaMod Interface](/path/to/InterfaceFeaMod.jpg)
+![FeaMod Interface](/InterfaceFeaMod.JPG)
 
 In this interface, users can:
 
